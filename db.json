@@ -1,0 +1,29 @@
+{
+  "goods": [
+    {
+      "goodsName": "商品111",
+      "area": "PH",
+      "id": 1
+    },
+    {
+      "goodsName": "商品25",
+      "area": "MY",
+      "id": 2
+    },
+    {
+      "goodsName": "商品3",
+      "area": "SG",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "area": "SG",
+      "goodsName": "商品4"
+    },
+    {
+      "id": 5,
+      "area": "SG",
+      "goodsName": "商品5"
+    }
+  ]
+}
